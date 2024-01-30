@@ -1,2 +1,2 @@
 # gowilla tag copy test
-https://www.dropbox.com/scl/fi/9utpdq65dznzg91shelgd/monkehv0.0.1.apk?rlkey=9esuwiocghzdm3j99g8omzedr&dl=0
+https://www.dropbox.com/scl/fi/7fw6uvf1bikc79otmg84w/monkehv0.0.2.apk?rlkey=mssv3lgfkxln3apkxibtt32z7&dl=0
